@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Meu IMC</string>
+    <string name="gender">Gênero</string>
+    <string name="height">Altura (ex. 174 cm)</string>
+    <string name="weight">Peso (ex. 60.0 kg)</string>
+    <string name="button_calc">Calcular IMC</string>
+    <string name="masc">Masculino</string>
+    <string name="fem">Feminino</string>
+</resources>
